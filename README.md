@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| ![1](https://www.facebook.com/photo/?fbid=103427328910563&set=a.103427342243895) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
+| ![1](<img width="250" alt="Nhật Quang" src="https://user-images.githubusercontent.com/92705154/149644978-7bcebf53-a725-4351-8c92-92b40236072e.png">) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
 | --- | --- | --- |
 
 
