@@ -1,14 +1,8 @@
 |Hi over there👋. I'm|![Quang](https://user-images.githubusercontent.com/92705154/149645080-a22d7fba-3d7f-4cd1-a586-7849c0f48212.png)|And welcome to my profile 🎉🎉（づ￣3￣）づ❤️
 | --- | --- | --- |
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold) @@
-dfdf
-dfdf
-dfdf
++   ○( ＾皿＾)っ Hehehe…
+!   (￣y▽￣)╭ Ohohoho.....
 ```
 
 <!--
