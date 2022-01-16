@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| ![1](https://drive.google.com/drive/u/0/my-drive) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
+| ![1](https://drive.google.com/file/d/1RbNbEyxYgPgYoViVxuIvVBsci2zxvJYA/view?usp=sharing) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
 | --- | --- | --- |
 
 
