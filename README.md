@@ -8,7 +8,7 @@
 
 -     (￣y▽￣)╭   Hmohmohmo.....
 ```
-<h1 style = "text-align:center; background-image:url(https://anhdep.tv/attachments/29491c1d81ccffedf24f540dde4f4ea0-jpeg.24003/); letter-spacing:20px; font-family:Courier New Courier; font-style:italic">Võ Ngọc Nhật Quang</h1><img width="250" alt="Nhật Quang" src="https://user-images.githubusercontent.com/92705154/149646491-5033c29c-ab25-415d-8194-a7631535f808.png">
+<img width="100%" alt="Nhật Quang" src="https://user-images.githubusercontent.com/92705154/149646508-2eb542c7-5ede-42b9-81ef-c48e47780c28.png">
 
 
 <!--
