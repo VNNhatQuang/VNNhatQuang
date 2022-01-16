@@ -8,7 +8,7 @@
 
 -     (￣y▽￣)╭   Hmohmohmo.....
 ```
-<h1 align = "center", style = "background-image : url("https://anhdep.tv/attachments/29491c1d81ccffedf24f540dde4f4ea0-jpeg.24003/", "letter-spacing : 4px", "font-family : Courier New
+<h1 align = "center", style = "background-image : url("https://anhdep.tv/attachments/29491c1d81ccffedf24f540dde4f4ea0-jpeg.24003/", "letter-spacing : 20px", "font-family : Courier New
 Courier", "font-style : italic");">Võ Ngọc Nhật Quang</h1>
 
 <!--
