@@ -8,7 +8,6 @@
 
 -     (￣y▽￣)╭   Hmohmohmo.....
 ```
-<img width="100%" alt="Nhật Quang" src="https://user-images.githubusercontent.com/92705154/149646508-2eb542c7-5ede-42b9-81ef-c48e47780c28.png">
 
 
 <!--
