@@ -8,7 +8,7 @@
 
 -     (￣y▽￣)╭   Hmohmohmo.....
 ```
-<h1 align = "center", style = "background-image : url("https://anhdep.tv/attachments/29491c1d81ccffedf24f540dde4f4ea0-jpeg.24003/");">Võ Ngọc Nhật Quang</h1>
+<h1 align = "center", style = "background-image : url("https://anhdep.tv/attachments/29491c1d81ccffedf24f540dde4f4ea0-jpeg.24003/", "letter-spacing : 0.6");">Võ Ngọc Nhật Quang</h1>
 
 <!--
 **VNNhatQuang/VNNhatQuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
