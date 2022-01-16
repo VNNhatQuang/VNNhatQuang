@@ -8,8 +8,8 @@
 
 -     (￣y▽￣)╭   Hmohmohmo.....
 ```
-![Untitled-1](https://user-images.githubusercontent.com/92705154/149646740-d5d44e0a-be3d-4b82-96fc-e62c84c2c9bd.png)
 
+<img width="945" alt="Untitled-1" src="https://user-images.githubusercontent.com/92705154/149646775-28ef560b-c5c0-4acf-bdb3-03e0a64437e7.png">
 
 <!--
 **VNNhatQuang/VNNhatQuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
