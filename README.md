@@ -1,6 +1,12 @@
 |Hi over there👋. I'm|![Quang](https://user-images.githubusercontent.com/92705154/149645080-a22d7fba-3d7f-4cd1-a586-7849c0f48212.png)|And welcome to my profile 🎉🎉（づ￣3￣）づ❤️
 | --- | --- | --- |
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <!--
 **VNNhatQuang/VNNhatQuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
