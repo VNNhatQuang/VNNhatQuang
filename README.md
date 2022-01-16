@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="100%" alt="Nhật Quang" src="https://user-images.githubusercontent.com/92705154/149644978-7bcebf53-a725-4351-8c92-92b40236072e.png">
+![Quang](https://user-images.githubusercontent.com/92705154/149645080-a22d7fba-3d7f-4cd1-a586-7849c0f48212.png)
 
 <!--
 **VNNhatQuang/VNNhatQuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
