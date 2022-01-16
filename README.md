@@ -4,10 +4,11 @@
 ```diff
 +     ○( ＾皿＾)っ Hmehmehme.....
 
-!     ✍️(◔◡◔)   Hmihmihmi......       <img width="945" alt="Untitled-1" src="https://user-images.githubusercontent.com/92705154/149646775-28ef560b-c5c0-4acf-bdb3-03e0a64437e7.png">
+!     ✍️(◔◡◔)   Hmihmihmi......
 
 -     (￣y▽￣)╭   Hmohmohmo.....
 ```
+<img width="945" alt="Untitled-1" src="https://user-images.githubusercontent.com/92705154/149646775-28ef560b-c5c0-4acf-bdb3-03e0a64437e7.png">
 
 \
 
